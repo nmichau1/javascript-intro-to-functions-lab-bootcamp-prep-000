@@ -18,7 +18,8 @@ function sayHiToGrandma(string){
   }
 }
 function sayHiToGrandma(string){
-  var Ican = 'YES INDEED'
+  var Icant = 'I can\'t hear you!'
+  
   if(string == "HELLO"){
     return Ican;
   }
