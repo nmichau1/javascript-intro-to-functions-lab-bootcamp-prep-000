@@ -26,7 +26,7 @@ function sayHiToGrandma(string){
     return Icant;
   }
   else if(string ==="HELLO"){
-    return Icant
+    return Ican
   }
   else{
     return love
