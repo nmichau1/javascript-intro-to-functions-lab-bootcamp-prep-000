@@ -17,3 +17,9 @@ function sayHiToGrandma(string){
     return Ican;
   }
 }
+function sayHiToGrandma(string){
+  var Ican = 'YES INDEED'
+  if(string == "HELLO"){
+    return Ican;
+  }
+}
