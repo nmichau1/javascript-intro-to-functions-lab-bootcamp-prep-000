@@ -16,7 +16,4 @@ function sayHiToGrandma(string){
   if(string == "hello"){
     return Ican;
   }
-
-
-  
 }
