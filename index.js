@@ -19,7 +19,7 @@ function sayHiToGrandma(string){
 }
 function sayHiToGrandma(string){
   var Icant = 'I can\'t hear you!'
-  var Ican = 'I can\'t hear you!'
+  var Ican = 'YES INDEED!'
   var love = "I love you, too."
   
   if(string === "hello"){
